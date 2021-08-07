@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+    background-color: #C1694F;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80vh;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+div#um {
+    text-indent: 50px;
+    
+}
+
+p{
+    background-color: rgba(154, 154, 255, 0.767);
+    border-radius: 10px;
+    padding: 5px;
+    width: 65vh;
+    margin: 8px auto 8px auto;
+}
+
+button {
+    margin-left: 70px;
+    background-color: rgba(154, 154, 255, 0.767);
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 10px;
+}
