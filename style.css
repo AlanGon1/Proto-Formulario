@@ -22,8 +22,11 @@ section {
 
 
 div#um {
-    text-indent: 50px;
-    
+    text-indent: 50px;    
+}
+
+div#dois {
+    text-align: center;
 }
 
 p{
